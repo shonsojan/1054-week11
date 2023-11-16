@@ -1,2 +1,2 @@
 # To-Do-List
-It's a in-class build of week 11
+It's an in-class build of To-Do-list
